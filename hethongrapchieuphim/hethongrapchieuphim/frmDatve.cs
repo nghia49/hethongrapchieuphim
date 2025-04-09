@@ -22,5 +22,6 @@ namespace hethongrapchieuphim
 
         }
         //foreach (var ghe in danhSachGheDaChon)
+        //Hàm đặt vé và thêm vào csdl
     }
 }
