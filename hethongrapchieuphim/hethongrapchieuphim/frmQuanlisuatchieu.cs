@@ -16,5 +16,11 @@ namespace hethongrapchieuphim
         {
             InitializeComponent();
         }
+
+        private void frmQuanlisuatchieu_Load(object sender, EventArgs e)
+        {
+
+        }
+        //tao class suất chiếu
     }
 }
