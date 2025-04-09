@@ -23,5 +23,10 @@ namespace hethongrapchieuphim
         }
         //foreach (var ghe in danhSachGheDaChon)
         //Hàm đặt vé và thêm vào csdl
+        //Lấy thông tin người dùng sau khi đặt vé 
+        //Tạo nội dung cho email
+        //Viêt hàm gửi email
+        //Gui email ngay khi ấn đặt vé
+
     }
 }
