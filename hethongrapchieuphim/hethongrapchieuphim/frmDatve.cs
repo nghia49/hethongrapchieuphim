@@ -26,5 +26,7 @@ namespace hethongrapchieuphim
         //Lấy thông tin người dùng sau khi đặt vé 
         //Tạo nội dung cho email
         //Viêt hàm gửi email
+        //Gui email ngay khi ấn đặt vé
+
     }
 }
