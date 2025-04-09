@@ -30,6 +30,7 @@ namespace hethongrapchieuphim
         {
             //Hiển thị danh sách phim
         }
-
+      //  public static List<Phim> TimKiemPhim(string tuKhoa)
+            
         }
 }
