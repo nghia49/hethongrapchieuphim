@@ -23,6 +23,6 @@ namespace hethongrapchieuphim
         }
         //private void LoadGhe(string maSuatChieu)
         //Phân biệt đã ghế đã đặt và ghế chưa đặt
-
+        //Hiển thị số ghế đã đặt và vị trí
     }
 }
