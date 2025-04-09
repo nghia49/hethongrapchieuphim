@@ -58,6 +58,12 @@
     <Compile Include="frmDatve.Designer.cs">
       <DependentUpon>frmDatve.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmHuyve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHuyve.Designer.cs">
+      <DependentUpon>frmHuyve.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmLichsudatve.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -95,6 +101,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmDatve.resx">
       <DependentUpon>frmDatve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHuyve.resx">
+      <DependentUpon>frmHuyve.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmLichsudatve.resx">
       <DependentUpon>frmLichsudatve.cs</DependentUpon>
