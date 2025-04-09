@@ -22,5 +22,6 @@ namespace hethongrapchieuphim
 
         }
         //Viết hàm thêm phim và gọi csdl
+        //Lưu thông tin phim moi vao csdl và cập nhật csdl
     }
 }
