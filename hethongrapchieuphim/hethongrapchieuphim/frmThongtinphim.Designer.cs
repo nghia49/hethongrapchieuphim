@@ -47,6 +47,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "frmThongtinphim";
             this.Text = "frmThongtinphim";
+            this.Load += new System.EventHandler(this.frmThongtinphim_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

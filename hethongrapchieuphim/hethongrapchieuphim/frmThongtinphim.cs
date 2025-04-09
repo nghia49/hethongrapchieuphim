@@ -16,5 +16,12 @@ namespace hethongrapchieuphim
         {
             InitializeComponent();
         }
+
+        private void frmThongtinphim_Load(object sender, EventArgs e)
+        {
+
+        }
+        //private void frmChiTietPhim_Load(object sender, EventArgs e)
+
     }
 }
