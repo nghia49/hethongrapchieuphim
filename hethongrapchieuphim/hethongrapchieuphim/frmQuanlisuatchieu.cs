@@ -37,6 +37,7 @@ namespace hethongrapchieuphim
             //Xử lý nút sửa suất chiếu
         }
         //tao class suất chiếu
+        //load lại danh sách sau khi thực thi các nút 
 
     }
 }
