@@ -22,5 +22,6 @@ namespace hethongrapchieuphim
             //Gửi yêu cầu hủy vé và phản hồi
         }
         //Viết hàm hủy vé kiểm tra điều kiện và xóa vé trong csdl
+        //Hiển thị lại lịch sử đặt vé
     }
 }
