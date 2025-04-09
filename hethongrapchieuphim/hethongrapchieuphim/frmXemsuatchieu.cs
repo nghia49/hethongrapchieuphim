@@ -21,5 +21,6 @@ namespace hethongrapchieuphim
         {
             //gửi yêu cầu xem suất chiếu
         }
+        //private void HienThiSuatChieu(string maPhim)
     }
 }
