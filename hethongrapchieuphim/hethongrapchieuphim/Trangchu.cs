@@ -22,5 +22,6 @@ namespace hethongrapchieuphim
 
         }
         //Viet ham phan tich lich su da xem 
+        //Lấy danh sách phim từ csdl
     }
 }
