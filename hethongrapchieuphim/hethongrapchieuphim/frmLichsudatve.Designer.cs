@@ -58,6 +58,7 @@
             this.button1.TabIndex = 2;
             this.button1.Text = "Xem chi tiết";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // dataGridView1
             // 
@@ -78,7 +79,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox1);
             this.Name = "frmLichsudatve";
-            this.Text = "frmLichsudatve";
+            this.Text = " ";
             this.Load += new System.EventHandler(this.frmLichsudatve_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);

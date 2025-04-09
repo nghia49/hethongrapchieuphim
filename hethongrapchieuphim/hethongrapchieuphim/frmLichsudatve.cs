@@ -19,6 +19,10 @@ namespace hethongrapchieuphim
 
         private void frmLichsudatve_Load(object sender, EventArgs e)
         {
+            //Gửi yêu cầu
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
 
         }
     }
