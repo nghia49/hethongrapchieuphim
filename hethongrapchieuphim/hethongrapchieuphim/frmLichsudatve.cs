@@ -25,5 +25,6 @@ namespace hethongrapchieuphim
         {
 
         }
+        // Viết hàm lấy lịch sử đặt vé từ csdl
     }
 }
