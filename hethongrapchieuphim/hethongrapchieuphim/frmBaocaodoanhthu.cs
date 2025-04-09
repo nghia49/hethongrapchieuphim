@@ -23,5 +23,6 @@ namespace hethongrapchieuphim
 
         }
         //Tạo một hàm thống kê doanh thu dựa trên thời gian thật 
+        //Hiển thị biểu đồ doanh thu dưới dạnh côt
     }
 }
