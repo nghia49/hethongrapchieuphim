@@ -21,6 +21,12 @@ namespace hethongrapchieuphim
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //Xử lý nút thêm suất chiếu
+        }
         //tao class suất chiếu
+
     }
 }
