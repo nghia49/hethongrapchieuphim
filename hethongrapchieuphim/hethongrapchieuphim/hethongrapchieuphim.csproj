@@ -52,6 +52,12 @@
     <Compile Include="frmChonghe.Designer.cs">
       <DependentUpon>frmChonghe.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmDatve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDatve.Designer.cs">
+      <DependentUpon>frmDatve.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmThongtinphim.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,6 +86,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmChonghe.resx">
       <DependentUpon>frmChonghe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDatve.resx">
+      <DependentUpon>frmDatve.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmThongtinphim.resx">
       <DependentUpon>frmThongtinphim.cs</DependentUpon>
