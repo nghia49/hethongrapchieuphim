@@ -19,12 +19,17 @@ namespace hethongrapchieuphim
 
         private void frmQuanlisuatchieu_Load(object sender, EventArgs e)
         {
-
+           
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             //Xử lý nút thêm suất chiếu
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            //Xử lý nút xóa suat chieu
         }
         //tao class suất chiếu
 
