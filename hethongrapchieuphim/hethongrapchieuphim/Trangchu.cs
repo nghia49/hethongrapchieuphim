@@ -16,5 +16,11 @@ namespace hethongrapchieuphim
         {
             InitializeComponent();
         }
+
+        private void Trangchu_Load(object sender, EventArgs e)
+        {
+
+        }
+        //Viet ham phan tich lich su da xem 
     }
 }
