@@ -26,5 +26,6 @@ namespace hethongrapchieuphim
 
         }
         // Viết hàm lấy lịch sử đặt vé từ csdl
+        //Hiển thị kết quả lên bảng
     }
 }
