@@ -26,5 +26,10 @@ namespace hethongrapchieuphim
         {
             //Xử lý sự kiện tìm kiếm
         }
-    }
+        private void HienThiDanhSachPhim(string tuKhoa)
+        {
+            //Hiển thị danh sách phim
+        }
+
+        }
 }
