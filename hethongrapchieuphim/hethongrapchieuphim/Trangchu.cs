@@ -24,5 +24,6 @@ namespace hethongrapchieuphim
         //Viet ham phan tich lich su da xem 
         //Lấy danh sách phim từ csdl
         //Loai bỏ các phim đã xem 
+        //Hiển thị lại danh sách sau khi phân tích
     }
 }
