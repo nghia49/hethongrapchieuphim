@@ -16,5 +16,11 @@ namespace hethongrapchieuphim
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+        //private void LoadGhe(string maSuatChieu)
     }
 }
