@@ -24,6 +24,7 @@ namespace hethongrapchieuphim
         }
         //private void frmChiTietPhim_Load(object sender, EventArgs e)
         //public static Phim LayChiTietPhim(string maPhim)
-
+        //private void HienThiThongTin(Phim phim)
+ 
     }
 }
