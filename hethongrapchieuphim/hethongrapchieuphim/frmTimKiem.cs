@@ -21,5 +21,10 @@ namespace hethongrapchieuphim
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //Xử lý sự kiện tìm kiếm
+        }
     }
 }
