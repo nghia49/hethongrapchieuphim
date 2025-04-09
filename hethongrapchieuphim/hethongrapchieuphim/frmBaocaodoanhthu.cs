@@ -22,5 +22,6 @@ namespace hethongrapchieuphim
             //Thống kê doanh thu bán vé
 
         }
+        //Tạo một hàm thống kê doanh thu dựa trên thời gian thật 
     }
 }
