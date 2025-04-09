@@ -16,5 +16,10 @@ namespace hethongrapchieuphim
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //Gửi yêu cầu hủy vé và phản hồi
+        }
     }
 }
