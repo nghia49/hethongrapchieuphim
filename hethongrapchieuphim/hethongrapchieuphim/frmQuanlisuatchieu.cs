@@ -31,6 +31,11 @@ namespace hethongrapchieuphim
         {
             //Xử lý nút xóa suat chieu
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            //Xử lý nút sửa suất chiếu
+        }
         //tao class suất chiếu
 
     }
