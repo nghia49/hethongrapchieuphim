@@ -16,5 +16,11 @@ namespace hethongrapchieuphim
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+        //Viết hàm thêm phim và gọi csdl
     }
 }
