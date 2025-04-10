@@ -31,5 +31,6 @@ namespace hethongrapchieuphim
         {
             //Phân loại phim theo ngày phát hành
         }
+        //Hien thi danh sach phim sau phan loai
     }
 }
