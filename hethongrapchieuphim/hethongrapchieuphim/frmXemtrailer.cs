@@ -22,5 +22,6 @@ namespace hethongrapchieuphim
             //Xử lý nút xem trailer bằng URL đã lưu trong cơ sở dữ liệu
         }
         //Viết hàm lấy trailer từ database
+        //Hiển thị phim với một form khác 
     }
 }
