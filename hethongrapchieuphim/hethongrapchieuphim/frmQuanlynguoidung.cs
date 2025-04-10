@@ -26,5 +26,10 @@ namespace hethongrapchieuphim
         {
             // Xử lý nút cấm người dùng và cập nhật trong csdl
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            // Xử lý nút kích hoạt người dùng và cập nhật csdl
+        }
     }
 }
