@@ -16,5 +16,10 @@ namespace hethongrapchieuphim
         {
             InitializeComponent();
         }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+            //Phân loại phim theo thể loại
+        }
     }
 }
