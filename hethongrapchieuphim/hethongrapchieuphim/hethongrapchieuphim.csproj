@@ -76,6 +76,12 @@
     <Compile Include="frmLichsudatve.Designer.cs">
       <DependentUpon>frmLichsudatve.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmLocphim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLocphim.Designer.cs">
+      <DependentUpon>frmLocphim.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmQuanlisuatchieu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -134,6 +140,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmLichsudatve.resx">
       <DependentUpon>frmLichsudatve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLocphim.resx">
+      <DependentUpon>frmLocphim.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmQuanlisuatchieu.resx">
       <DependentUpon>frmQuanlisuatchieu.cs</DependentUpon>
