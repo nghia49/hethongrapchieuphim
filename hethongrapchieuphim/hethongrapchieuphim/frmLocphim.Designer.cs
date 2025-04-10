@@ -58,6 +58,7 @@
             this.textBox3.Size = new System.Drawing.Size(100, 22);
             this.textBox3.TabIndex = 2;
             this.textBox3.Text = "Đánh giá";
+            this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // textBox4
             // 
