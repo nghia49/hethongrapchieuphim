@@ -16,5 +16,10 @@ namespace hethongrapchieuphim
         {
             InitializeComponent();
         }
+        // Lấy danh sách người dùng từ csdl
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

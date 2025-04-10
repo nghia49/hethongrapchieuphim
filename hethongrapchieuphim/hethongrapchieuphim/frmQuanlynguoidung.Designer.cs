@@ -40,6 +40,7 @@
             this.textBox1.Size = new System.Drawing.Size(126, 22);
             this.textBox1.TabIndex = 0;
             this.textBox1.Text = "Quản lý người dùng";
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // button1
             // 
