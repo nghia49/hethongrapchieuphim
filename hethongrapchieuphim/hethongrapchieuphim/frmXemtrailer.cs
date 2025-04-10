@@ -16,5 +16,10 @@ namespace hethongrapchieuphim
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //Xử lý nút xem trailer bằng URL đã lưu trong cơ sở dữ liệu
+        }
     }
 }
