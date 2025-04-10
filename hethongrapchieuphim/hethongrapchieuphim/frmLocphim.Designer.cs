@@ -67,6 +67,7 @@
             this.textBox4.Size = new System.Drawing.Size(100, 22);
             this.textBox4.TabIndex = 3;
             this.textBox4.Text = "Ngày phát hành";
+            this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
             // 
             // frmLocphim
             // 

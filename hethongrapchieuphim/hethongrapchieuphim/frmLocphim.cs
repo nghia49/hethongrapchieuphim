@@ -26,5 +26,10 @@ namespace hethongrapchieuphim
         {
             //Phân loại phim theo đánh giá
         }
+
+        private void textBox4_TextChanged(object sender, EventArgs e)
+        {
+            //Phân loại phim theo ngày phát hành
+        }
     }
 }
